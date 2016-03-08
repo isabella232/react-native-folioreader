@@ -1,0 +1,30 @@
+{
+  "name": "react-native-folio-reader",
+  "version": "1.0.0",
+  "description": "react native bridge of folio reader",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/FolioReader/react-native-folio-reader.git"
+  },
+  "keywords": [
+    "folioreader",
+    "react",
+    "native"
+  ],
+  "author": {
+    "name": "Sibelius Seraphini",
+    "github": "https://github.com/sibeliussseraphini"
+  },
+  "license": "BSD",
+  "bugs": {
+    "url": "https://github.com/FolioReader/react-native-folio-reader/issues"
+  },
+  "homepage": "https://github.com/FolioReader/react-native-folio-reader#readme",
+  "peerDependencies": {
+    "react-native": "^0.21.0"
+  }
+}

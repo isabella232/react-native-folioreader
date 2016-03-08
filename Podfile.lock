@@ -1,0 +1,30 @@
+PODS:
+  - AEXML (2.1.0)
+  - FolioReaderKit (0.5.0):
+    - AEXML
+    - FontBlaster
+    - JSQWebViewController
+    - SSZipArchive
+    - UIMenuItem-CXAImageSupport
+    - ZFDragableModalTransition
+  - FontBlaster (2.0.4)
+  - JSQWebViewController (2.0.1)
+  - SSZipArchive (1.1)
+  - UIMenuItem-CXAImageSupport (0.0.1)
+  - ZFDragableModalTransition (0.6)
+
+DEPENDENCIES:
+  - FolioReaderKit
+
+SPEC CHECKSUMS:
+  AEXML: 0e2f657fdc67e17905682a06d55583a863d80803
+  FolioReaderKit: e0fb16593eb1d257ea6582bfb58e41c39d1d4f29
+  FontBlaster: c34e4c00314f86b2256440d66b19adfceaefae1e
+  JSQWebViewController: 2e416ae6604676510812bbda050d63a1488003a4
+  SSZipArchive: de3d215ab73f87db627f81f2ce24f1731e3886c3
+  UIMenuItem-CXAImageSupport: 2945e2af4487414caad801ed8ff6ac8db274e986
+  ZFDragableModalTransition: 0d294eaaba6edfcb9839595de765f9ca06a4b524
+
+PODFILE CHECKSUM: 8d51c3e877aea856f48a164be813bc82b6d9cfcd
+
+COCOAPODS: 1.0.0.beta.3
